@@ -1,7 +1,10 @@
-﻿
+﻿namespace MonitoringDigitalModel.ViewModels;
 
-namespace MonitoringDigitalModel.ViewModels;
-
-internal class MainViewModel
+public class MainViewModel
 {
+    public  MainViewModel()
+    { 
+
+    }
+
 }

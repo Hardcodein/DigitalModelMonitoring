@@ -4,4 +4,8 @@ global using System.Linq;
 global using System.Text;
 global using System.Threading.Tasks;
 global using System.Windows;
-
+global using CommunityToolkit.Mvvm.Input;
+global using System.Data.Common;
+global using System.Runtime.CompilerServices;
+global using System.Windows.Input;
+global using TrackChanges;
